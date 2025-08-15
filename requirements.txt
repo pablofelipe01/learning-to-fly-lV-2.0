@@ -1,0 +1,40 @@
+# ===============================================
+# DEPENDENCIAS PRINCIPALES
+# ===============================================
+
+# API de IQ Option
+iqoptionapi
+
+# Dependencias base (sin websocket-client porque ya viene con iqoptionapi)
+numpy>=1.21.0
+pytz>=2021.3
+requests>=2.26.0
+
+# ===============================================
+# DEPENDENCIAS PARA ESTRATEGIA DE TENDENCIA
+# ===============================================
+
+# Análisis estadístico y machine learning
+scipy>=1.7.0          # Para análisis estadístico de tendencias
+scikit-learn>=1.0.0   # Para regresión lineal en cálculo de tendencias
+
+# ===============================================
+# DEPENDENCIAS OPCIONALES
+# ===============================================
+
+# Análisis de datos (opcional pero útil)
+pandas>=1.3.0         # Para manejo de datos
+matplotlib>=3.4.0     # Para gráficos (si quieres visualizar tendencias)
+
+# ===============================================
+# NOTAS DE INSTALACIÓN
+# ===============================================
+# Para instalar todo:
+# pip3 install -r requirements.txt
+#
+# Para instalar solo lo esencial (sin pandas/matplotlib):
+# pip3 install iqoptionapi numpy pytz requests scipy scikit-learn
+#
+# Si hay problemas con scipy en macOS M1/M2:
+# pip3 install --upgrade pip
+# pip3 install scipy --no-cache-dir

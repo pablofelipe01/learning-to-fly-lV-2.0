@@ -1,0 +1,118 @@
+2025-08-12 15:26:24 | INFO | 🚀 Inicializando estrategia...
+2025-08-12 15:26:24 | INFO | ============================================================
+2025-08-12 15:26:24 | INFO | 📈 INICIANDO ESTRATEGIA DE TENDENCIA CON PROTECCIÓN
+2025-08-12 15:26:24 | INFO | ============================================================
+2025-08-12 15:26:24 | INFO | 🎯 Operando en TODAS las sesiones disponibles
+2025-08-12 15:26:24 | INFO | 🔥 PERÍODO DE ANÁLISIS: 2 horas
+2025-08-12 15:26:24 | INFO | 📊 Objetivo: Identificar activos con tendencias claras
+2025-08-12 15:26:24 | INFO | ============================================================
+2025-08-12 15:26:24 | INFO | 🔗 Conectando a IQ Option...
+2025-08-12 15:26:26 | INFO | ✅ Conexión exitosa
+2025-08-12 15:26:26 | INFO | 💰 Capital inicial: $10,000.00
+2025-08-12 15:26:26 | INFO | 🔍 Verificando activos disponibles...
+2025-08-12 15:26:33 | INFO | ✅ EURUSD: Disponible como EURUSD-OTC
+2025-08-12 15:26:33 | INFO | ✅ USDJPY: Disponible como USDJPY-OTC
+2025-08-12 15:26:33 | INFO | ✅ GBPUSD: Disponible como GBPUSD-OTC
+2025-08-12 15:26:33 | INFO | ✅ USDCHF: Disponible como USDCHF-OTC
+2025-08-12 15:26:33 | INFO | ✅ USDCAD: Disponible como USDCAD-OTC
+2025-08-12 15:26:33 | INFO | ✅ AUDUSD: Disponible como AUDUSD-OTC
+2025-08-12 15:26:33 | INFO | ✅ NZDUSD: Disponible como NZDUSD-OTC
+2025-08-12 15:26:33 | INFO | ✅ USNDAQ100: Disponible como USNDAQ100-OTC
+2025-08-12 15:26:33 | INFO | ✅ US2000: Disponible como US2000-OTC
+2025-08-12 15:26:33 | INFO | ✅ SNAP: Disponible como SNAP-OTC
+2025-08-12 15:26:33 | INFO | ✅ ALIBABA: Disponible como ALIBABA-OTC
+2025-08-12 15:26:33 | INFO | ✅ MSFT: Disponible como MSFT-OTC
+2025-08-12 15:26:33 | INFO | ✅ ETHUSD: Disponible como ETHUSD-OTC
+2025-08-12 15:26:33 | INFO | ✅ MATICUSD: Disponible como MATICUSD-OTC
+2025-08-12 15:26:33 | INFO | ✅ NEARUSD: Disponible como NEARUSD-OTC
+2025-08-12 15:26:33 | INFO | ✅ ATOMUSD: Disponible como ATOMUSD-OTC
+2025-08-12 15:26:33 | INFO | ✅ DOTUSD: Disponible como DOTUSD-OTC
+2025-08-12 15:26:33 | INFO | ✅ ARBUSD: Disponible como ARBUSD-OTC
+2025-08-12 15:26:33 | INFO | ✅ LINKUSD: Disponible como LINKUSD-OTC
+2025-08-12 15:26:33 | INFO | ✅ NVDA/AMD: Disponible como NVDA/AMD-OTC
+2025-08-12 15:26:33 | INFO | ✅ TESLA/FORD: Disponible como TESLA/FORD-OTC
+2025-08-12 15:26:33 | INFO | ✅ META/GOOGLE: Disponible como META/GOOGLE-OTC
+2025-08-12 15:26:33 | INFO | ✅ AMZN/ALIBABA: Disponible como AMZN/ALIBABA-OTC
+2025-08-12 15:26:33 | INFO | ✅ MSFT/AAPL: Disponible como MSFT/AAPL-OTC
+2025-08-12 15:26:33 | INFO | ✅ AMZN/EBAY: Disponible como AMZN/EBAY-OTC
+2025-08-12 15:26:33 | INFO | ✅ NFLX/AMZN: Disponible como NFLX/AMZN-OTC
+2025-08-12 15:26:33 | INFO | ✅ GOOGLE/MSFT: Disponible como GOOGLE/MSFT-OTC
+2025-08-12 15:26:33 | INFO | ✅ INTEL/IBM: Disponible como INTEL/IBM-OTC
+2025-08-12 15:26:33 | INFO | 📊 Total activos disponibles: 28
+2025-08-12 15:26:33 | INFO | ⏰ Próxima sesión: CIERRE
+2025-08-12 15:26:33 | INFO | ✅ Sistema inicializado correctamente
+2025-08-12 15:26:33 | INFO | 🎯 Iniciando estrategia de tendencia...
+2025-08-12 15:26:33 | INFO | 📍 Operando en sesión(es): TODAS LAS SESIONES
+2025-08-12 15:26:33 | INFO | ℹ️ Presiona Ctrl+C para detener
+2025-08-12 15:26:33 | INFO | 🔥 Iniciando análisis de tendencias...
+2025-08-12 15:26:33 | INFO | ⏱️ Análisis: 119 minutos restantes
+2025-08-12 15:26:40 | INFO | 📊 No hay tendencias válidas en este momento
+2025-08-12 15:43:33 | INFO | ⏱️ Análisis: 102 minutos restantes
+2025-08-12 15:47:34 | INFO | 
+⏹️ Estrategia detenida por el usuario
+2025-08-12 15:47:34 | INFO | ============================================================
+2025-08-12 15:47:34 | INFO | 📊 RESUMEN DE LA SESIÓN
+2025-08-12 15:47:34 | INFO | ============================================================
+2025-08-12 15:47:34 | INFO | 📍 SESIONES DE TRADING:
+2025-08-12 15:47:34 | INFO |   - MAÑANA: 11:00-12:00 (4 ventanas)
+2025-08-12 15:47:34 | INFO |   - TARDE: 14:00-15:00 (4 ventanas)
+2025-08-12 15:47:34 | INFO |   - CIERRE: 17:00-18:00 (4 ventanas)
+2025-08-12 15:47:34 | INFO | 
+💰 Capital inicial: $10,000.00
+2025-08-12 15:47:34 | INFO | 💰 Balance final: $10,000.00
+2025-08-12 15:47:34 | INFO | 📈 Rendimiento: 0.00%
+2025-08-12 15:47:34 | INFO | 📊 Trades realizados: 0/12 posibles
+2025-08-12 15:47:34 | INFO | ✅ Victorias: 0
+2025-08-12 15:47:34 | INFO | ❌ Derrotas: 0
+2025-08-12 15:47:34 | INFO | 
+🛡️ Coberturas colocadas: 0
+2025-08-12 15:47:34 | INFO | ⏭️ Coberturas evitadas: 0
+2025-08-12 15:47:34 | INFO | ============================================================
+2025-08-12 15:47:34 | INFO | 👋 Estrategia finalizada
+2025-08-12 15:47:34 | INFO | 👋 Programa finalizado
+2025-08-12 15:47:35 | INFO | ============================================================
+2025-08-12 15:47:35 | INFO | 📊 RESUMEN DE LA SESIÓN
+2025-08-12 15:47:35 | INFO | ============================================================
+2025-08-12 15:47:35 | INFO | 📍 SESIONES DE TRADING:
+2025-08-12 15:47:35 | INFO |   - MAÑANA: 11:00-12:00 (4 ventanas)
+2025-08-12 15:47:35 | INFO |   - TARDE: 14:00-15:00 (4 ventanas)
+2025-08-12 15:47:35 | INFO |   - CIERRE: 17:00-18:00 (4 ventanas)
+2025-08-12 15:47:35 | INFO | 
+💰 Capital inicial: $10,000.00
+2025-08-12 15:47:35 | INFO | 💰 Balance final: $10,000.00
+2025-08-12 15:47:35 | INFO | 📈 Rendimiento: 0.00%
+2025-08-12 15:47:35 | INFO | 📊 Trades realizados: 0/12 posibles
+2025-08-12 15:47:35 | INFO | ✅ Victorias: 0
+2025-08-12 15:47:35 | INFO | ❌ Derrotas: 0
+2025-08-12 15:47:35 | INFO | 
+🛡️ Coberturas colocadas: 0
+2025-08-12 15:47:35 | INFO | ⏭️ Coberturas evitadas: 0
+2025-08-12 15:47:35 | INFO | ============================================================
+2025-08-12 16:01:11 | INFO | 🚀 Inicializando estrategia...
+2025-08-12 16:01:11 | INFO | ============================================================
+2025-08-12 16:01:11 | INFO | 📈 INICIANDO ESTRATEGIA DE TENDENCIA CON PROTECCIÓN
+2025-08-12 16:01:11 | INFO | ============================================================
+2025-08-12 16:01:11 | INFO | 🎯 Operando en TODAS las sesiones disponibles
+2025-08-12 16:01:11 | INFO | 🔥 PERÍODO DE ANÁLISIS: CORTO (30 minutos)
+2025-08-12 16:01:11 | INFO | ⏱️ Duración: 30 minutos
+2025-08-12 16:01:11 | INFO | 📊 Objetivo: Identificar activos con tendencias claras
+2025-08-12 16:01:11 | INFO | ✅ Análisis terminará a las: 16:31
+2025-08-12 16:01:11 | INFO | ============================================================
+2025-08-12 16:01:11 | INFO | 🔗 Conectando a IQ Option...
+2025-08-12 16:01:13 | ERROR | ❌ Error al conectar: {"code":"invalid_credentials","message":"You entered the wrong credentials. Please ensure that your login/password is correct."}
+2025-08-12 16:01:13 | ERROR | ❌ Error fatal: Error al conectar: {"code":"invalid_credentials","message":"You entered the wrong credentials. Please ensure that your login/password is correct."}
+2025-08-12 16:01:13 | ERROR | Traceback completo:
+Traceback (most recent call last):
+  File "/Users/pablofelipe/Documents/Mi_Trabajo/larning-to-fly-lV/main_trend.py", line 142, in main
+    strategy = TrendProtectionStrategy(
+        email=email,
+    ...<3 lines>...
+        session_filter=args.session  # Pasar filtro de sesión
+    )
+  File "/Users/pablofelipe/Documents/Mi_Trabajo/larning-to-fly-lV/trend_strategy.py", line 86, in __init__
+    self._connect_to_iq_option(email, password, account_type)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/pablofelipe/Documents/Mi_Trabajo/larning-to-fly-lV/trend_strategy.py", line 142, in _connect_to_iq_option
+    raise Exception(f"Error al conectar: {login_reason}")
+Exception: Error al conectar: {"code":"invalid_credentials","message":"You entered the wrong credentials. Please ensure that your login/password is correct."}
+2025-08-12 16:01:13 | INFO | 👋 Programa finalizado

@@ -1,0 +1,152 @@
+{
+    "timestamp": "2025-08-13T17:55:04.266614",
+    "daily_trades": 2,
+    "daily_profit": -409.4,
+    "wins": 0,
+    "losses": 2,
+    "hedges_placed": 0,
+    "hedges_avoided": 2,
+    "trend_scores": {
+        "EURUSD": {
+            "score": 0,
+            "direction": "LATERAL",
+            "strength": 0.008332669672068744
+        },
+        "USDJPY": {
+            "score": 0,
+            "direction": "LATERAL",
+            "strength": 0.05749835477215403
+        },
+        "GBPUSD": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.2629200405478186
+        },
+        "USDCHF": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.24232187187339344
+        },
+        "USDCAD": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.6245518368502068
+        },
+        "AUDUSD": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.6330227059989352
+        },
+        "NZDUSD": {
+            "score": 0,
+            "direction": "LATERAL",
+            "strength": 0.055154439343648186
+        },
+        "USNDAQ100": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.31197359171637934
+        },
+        "US2000": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.180887711270859
+        },
+        "SNAP": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.6002474975424129
+        },
+        "ALIBABA": {
+            "score": 0,
+            "direction": "LATERAL",
+            "strength": 0.002766097614732924
+        },
+        "MSFT": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.5276733593763469
+        },
+        "ETHUSD": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.013925126627601047
+        },
+        "MATICUSD": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.5422317722394531
+        },
+        "NEARUSD": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.3342363602793342
+        },
+        "ATOMUSD": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.6591578261455193
+        },
+        "DOTUSD": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.3163998247568687
+        },
+        "ARBUSD": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.5056512185183935
+        },
+        "LINKUSD": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.31172640903111504
+        },
+        "NVDA/AMD": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.0887234119935405
+        },
+        "TESLA/FORD": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.37937451265715244
+        },
+        "META/GOOGLE": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.1275745937284314
+        },
+        "AMZN/ALIBABA": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.5092064021448288
+        },
+        "MSFT/AAPL": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.4233542778196214
+        },
+        "AMZN/EBAY": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.0051794196372705
+        },
+        "NFLX/AMZN": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.5271745337280606
+        },
+        "GOOGLE/MSFT": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.5247859911890946
+        },
+        "INTEL/IBM": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.23772077299342753
+        }
+    },
+    "last_window_traded": "14:00"
+}

@@ -1,0 +1,152 @@
+{
+    "timestamp": "2025-08-12T15:47:34.580123",
+    "daily_trades": 0,
+    "daily_profit": 0.0,
+    "wins": 0,
+    "losses": 0,
+    "hedges_placed": 0,
+    "hedges_avoided": 0,
+    "trend_scores": {
+        "EURUSD": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.6140621904859987
+        },
+        "USDJPY": {
+            "score": 0,
+            "direction": "LATERAL",
+            "strength": 0.31084633042824084
+        },
+        "GBPUSD": {
+            "score": 0,
+            "direction": "LATERAL",
+            "strength": 0.014605065513045795
+        },
+        "USDCHF": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.6720355783061823
+        },
+        "USDCAD": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.30568340232131913
+        },
+        "AUDUSD": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.5486292360371265
+        },
+        "NZDUSD": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.5704437435578625
+        },
+        "USNDAQ100": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.49075090120274306
+        },
+        "US2000": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.022116686295988564
+        },
+        "SNAP": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.44947966451662336
+        },
+        "ALIBABA": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.5083743852956283
+        },
+        "MSFT": {
+            "score": 0,
+            "direction": "LATERAL",
+            "strength": 0.04400212578186192
+        },
+        "ETHUSD": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.06168547236734791
+        },
+        "MATICUSD": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.2606656071781843
+        },
+        "NEARUSD": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.342841948231255
+        },
+        "ATOMUSD": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.4126022302827637
+        },
+        "DOTUSD": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.5487844324958556
+        },
+        "ARBUSD": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.5348208903105961
+        },
+        "LINKUSD": {
+            "score": 0,
+            "direction": "LATERAL",
+            "strength": 0.000975774277241392
+        },
+        "NVDA/AMD": {
+            "score": 0,
+            "direction": "LATERAL",
+            "strength": 0.01255351065326116
+        },
+        "TESLA/FORD": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.15889050676299668
+        },
+        "META/GOOGLE": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.02712207658573261
+        },
+        "AMZN/ALIBABA": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.48786455863562744
+        },
+        "MSFT/AAPL": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.5205673490655329
+        },
+        "AMZN/EBAY": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.6408227653231945
+        },
+        "NFLX/AMZN": {
+            "score": 0,
+            "direction": "UP",
+            "strength": 0.13256045303577677
+        },
+        "GOOGLE/MSFT": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.1731263388372718
+        },
+        "INTEL/IBM": {
+            "score": 0,
+            "direction": "DOWN",
+            "strength": 0.1589495156040173
+        }
+    },
+    "last_window_traded": null
+}

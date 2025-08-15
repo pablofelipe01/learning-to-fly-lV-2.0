@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-08-15T08:12:11.513219",
+  "model_performance": {},
+  "insights": {
+    "timestamp": "2025-08-15T08:12:11.511446",
+    "key_insights": [],
+    "warnings": [],
+    "opportunities": [],
+    "action_items": []
+  },
+  "patterns": {},
+  "optimized_parameters": {},
+  "data_summary": {
+    "total_features": 0,
+    "total_samples": 0,
+    "model_ready": false
+  }
+}
