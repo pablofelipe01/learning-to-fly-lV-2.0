@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Logs y datos
+*.log
+*.db
+*.csv
+
+# Credenciales
+.env
+config_credentials.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# MacOS
+.DS_Store
+
+# Estados y archivos temporales
+trend_strategy_state.json
