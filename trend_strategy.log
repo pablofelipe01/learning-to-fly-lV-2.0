@@ -229,3 +229,465 @@
 2025-08-15 09:26:16 | INFO | 🔄 Ciclo 340 | Sesión OVERLAP (PRÓXIMA) | Primarias: 0 | Coberturas: 0 | P&L: $-20,363.95
 2025-08-15 09:31:36 | INFO | 🔄 Ciclo 360 | Sesión OVERLAP (PRÓXIMA) | Primarias: 0 | Coberturas: 0 | P&L: $-20,363.95
 2025-08-15 09:36:42 | INFO | 🔄 Ciclo 380 | Sesión OVERLAP (PRÓXIMA) | Primarias: 0 | Coberturas: 0 | P&L: $-20,363.95
+2025-08-15 09:41:47 | INFO | 🔄 Ciclo 400 | Sesión OVERLAP (PRÓXIMA) | Primarias: 0 | Coberturas: 0 | P&L: $-20,363.95
+2025-08-15 09:46:52 | INFO | 🔄 Ciclo 420 | Sesión OVERLAP (PRÓXIMA) | Primarias: 0 | Coberturas: 0 | P&L: $-20,363.95
+2025-08-15 09:51:57 | INFO | 🔄 Ciclo 440 | Sesión OVERLAP (PRÓXIMA) | Primarias: 0 | Coberturas: 0 | P&L: $-20,363.95
+2025-08-15 09:57:02 | INFO | 🔄 Ciclo 460 | Sesión OVERLAP (PRÓXIMA) | Primarias: 0 | Coberturas: 0 | P&L: $-20,363.95
+2025-08-15 10:00:05 | INFO | 📍 SESIÓN OVERLAP - Ventana 10:00
+2025-08-15 10:00:05 | INFO | 
+⏰ VENTANA DE TRADING: 10:00 [OVERLAP]
+2025-08-15 10:00:14 | WARNING | ⚠️ No hay tendencias válidas en esta ventana
+2025-08-15 10:00:29 | INFO | 📍 SESIÓN OVERLAP - Ventana 10:00
+2025-08-15 10:00:29 | INFO | 
+⏰ VENTANA DE TRADING: 10:00 [OVERLAP]
+2025-08-15 10:00:37 | WARNING | ⚠️ No hay tendencias válidas en esta ventana
+2025-08-15 10:00:53 | INFO | 📍 SESIÓN OVERLAP - Ventana 10:00
+2025-08-15 10:00:53 | INFO | 
+⏰ VENTANA DE TRADING: 10:00 [OVERLAP]
+2025-08-15 10:01:00 | WARNING | ⚠️ No hay tendencias válidas en esta ventana
+2025-08-15 10:02:32 | INFO | 🔄 Ciclo 480 | Sesión OVERLAP (ACTIVA) | Primarias: 0 | Coberturas: 0 | P&L: $-20,363.95
+2025-08-15 10:07:36 | INFO | 🔄 Ciclo 500 | Sesión OVERLAP (ACTIVA) | Primarias: 0 | Coberturas: 0 | P&L: $-20,363.95
+2025-08-15 10:12:40 | INFO | 🔄 Ciclo 520 | Sesión OVERLAP (ACTIVA) | Primarias: 0 | Coberturas: 0 | P&L: $-20,363.95
+2025-08-15 10:15:12 | INFO | 📍 SESIÓN OVERLAP - Ventana 10:15
+2025-08-15 10:15:12 | INFO | 
+⏰ VENTANA DE TRADING: 10:15 [OVERLAP]
+2025-08-15 10:15:21 | INFO | 📈 Colocando PUT en EURUSD
+2025-08-15 10:15:21 | INFO |   Tendencia: DOWN | Score: 0.569
+2025-08-15 10:15:21 | INFO |   Tamaño: $19,956.69
+2025-08-15 10:15:21 | INFO | ✅ Orden primaria colocada: ID 12964658476
+2025-08-15 10:17:53 | INFO | 🔄 Ciclo 540 | Sesión OVERLAP (ACTIVA) | Primarias: 1 | Coberturas: 0 | P&L: $-20,363.95
+2025-08-15 10:18:41 | INFO | 🔍 Evaluando cobertura para EURUSD (ID: 12964658476)
+2025-08-15 10:18:42 | INFO |   Precio entrada: 1.15890
+2025-08-15 10:18:42 | INFO |   Precio actual: 1.15873
+2025-08-15 10:18:42 | INFO |   Diferencia: 0.015%
+2025-08-15 10:18:42 | INFO |   Estado: ITM ✅
+2025-08-15 10:18:42 | INFO | 🛡️ Colocando COBERTURA CALL en EURUSD
+2025-08-15 10:18:42 | INFO |   Tamaño: $19,956.69
+2025-08-15 10:18:42 | INFO | ✅ Cobertura colocada: ID 12964667490
+2025-08-15 10:20:56 | INFO | ✅ PRIMARY GANADA: +$16,963.19
+2025-08-15 10:20:56 | INFO | ❌ HEDGE PERDIDA: -$19,956.69
+2025-08-15 10:22:58 | INFO | 🔄 Ciclo 560 | Sesión OVERLAP (ACTIVA) | Primarias: 0 | Coberturas: 0 | P&L: $-23,357.45
+2025-08-15 10:28:02 | INFO | 🔄 Ciclo 580 | Sesión OVERLAP (ACTIVA) | Primarias: 0 | Coberturas: 0 | P&L: $-23,357.45
+2025-08-15 10:30:04 | INFO | 📍 SESIÓN OVERLAP - Ventana 10:30
+2025-08-15 10:30:04 | INFO | 
+⏰ VENTANA DE TRADING: 10:30 [OVERLAP]
+2025-08-15 10:30:12 | INFO | 📈 Colocando PUT en EURUSD
+2025-08-15 10:30:12 | INFO |   Tendencia: DOWN | Score: 0.553
+2025-08-15 10:30:12 | INFO |   Tamaño: $19,900.81
+2025-08-15 10:30:12 | INFO | ✅ Orden primaria colocada: ID 12964703187
+2025-08-15 10:33:15 | INFO | 🔄 Ciclo 600 | Sesión OVERLAP (ACTIVA) | Primarias: 1 | Coberturas: 0 | P&L: $-23,357.45
+2025-08-15 10:33:32 | INFO | 🔍 Evaluando cobertura para EURUSD (ID: 12964703187)
+2025-08-15 10:33:33 | INFO |   Precio entrada: 1.15484
+2025-08-15 10:33:33 | INFO |   Precio actual: 1.15535
+2025-08-15 10:33:33 | INFO |   Diferencia: -0.045%
+2025-08-15 10:33:33 | INFO |   Estado: OTM ❌
+2025-08-15 10:33:33 | INFO | 📊 No se coloca cobertura (OTM)
+2025-08-15 10:35:47 | INFO | ❌ PRIMARY PERDIDA: -$19,900.81
+2025-08-15 10:38:19 | INFO | 🔄 Ciclo 620 | Sesión OVERLAP (ACTIVA) | Primarias: 0 | Coberturas: 0 | P&L: $-43,258.26
+2025-08-15 10:43:24 | INFO | 🔄 Ciclo 640 | Sesión OVERLAP (ACTIVA) | Primarias: 0 | Coberturas: 0 | P&L: $-43,258.26
+2025-08-15 10:45:10 | INFO | 📍 SESIÓN OVERLAP - Ventana 10:45
+2025-08-15 10:45:10 | INFO | 
+⏰ VENTANA DE TRADING: 10:45 [OVERLAP]
+2025-08-15 10:45:19 | WARNING | ⚠️ No hay tendencias válidas en esta ventana
+2025-08-15 10:45:34 | INFO | 📍 SESIÓN OVERLAP - Ventana 10:45
+2025-08-15 10:45:34 | INFO | 
+⏰ VENTANA DE TRADING: 10:45 [OVERLAP]
+2025-08-15 10:45:43 | WARNING | ⚠️ No hay tendencias válidas en esta ventana
+2025-08-15 10:45:58 | INFO | 📍 SESIÓN OVERLAP - Ventana 10:45
+2025-08-15 10:45:58 | INFO | 
+⏰ VENTANA DE TRADING: 10:45 [OVERLAP]
+2025-08-15 10:46:07 | WARNING | ⚠️ No hay tendencias válidas en esta ventana
+2025-08-15 10:48:54 | INFO | 🔄 Ciclo 660 | Sesión OVERLAP (ACTIVA) | Primarias: 0 | Coberturas: 0 | P&L: $-43,258.26
+2025-08-15 10:53:58 | INFO | 🔄 Ciclo 680 | Sesión OVERLAP (ACTIVA) | Primarias: 0 | Coberturas: 0 | P&L: $-43,258.26
+2025-08-15 10:59:02 | INFO | 🔄 Ciclo 700 | Sesión OVERLAP (ACTIVA) | Primarias: 0 | Coberturas: 0 | P&L: $-43,258.26
+2025-08-15 11:04:07 | INFO | 🔄 Ciclo 720 | Sesión POWER (PRÓXIMA) | Primarias: 0 | Coberturas: 0 | P&L: $-43,258.26
+2025-08-15 11:08:49 | INFO | 
+⏹️ Estrategia detenida por el usuario
+2025-08-15 11:08:49 | INFO | ============================================================
+2025-08-15 11:08:49 | INFO | 📊 RESUMEN DE LA SESIÓN
+2025-08-15 11:08:49 | INFO | ============================================================
+2025-08-15 11:08:49 | INFO | 📍 SESIONES DE TRADING (Hora Colombia UTC-5):
+2025-08-15 11:08:49 | INFO |   - NY_OPEN: 08:00-09:00 (Apertura Wall Street)
+2025-08-15 11:08:49 | INFO |   - OVERLAP: 10:00-11:00 (Solapamiento EU-NY) ⭐
+2025-08-15 11:08:49 | INFO |   - POWER: 14:00-15:00 (Power Hour NY)
+2025-08-15 11:08:49 | INFO |   - POST: 17:00-18:00 (Post-mercado OTC)
+2025-08-15 11:08:49 | INFO | 
+💰 Capital inicial: $1,018,197.39
+2025-08-15 11:08:49 | INFO | 💰 Balance final: $975,140.55
+2025-08-15 11:08:49 | INFO | 📈 Rendimiento: -4.23%
+2025-08-15 11:08:49 | INFO | 📊 Trades realizados: 3/16 posibles
+2025-08-15 11:08:49 | INFO | ✅ Victorias: 1
+2025-08-15 11:08:49 | INFO | ❌ Derrotas: 3
+2025-08-15 11:08:49 | INFO | 🎯 Win Rate: 25.0%
+2025-08-15 11:08:49 | INFO | 
+🛡️ Coberturas colocadas: 1
+2025-08-15 11:08:49 | INFO | ⏭️ Coberturas evitadas: 2
+2025-08-15 11:08:49 | INFO | 📊 Tasa de cobertura: 33.3%
+2025-08-15 11:08:49 | INFO | ============================================================
+2025-08-15 11:08:49 | INFO | 👋 Estrategia finalizada
+2025-08-15 11:08:49 | INFO | 👋 Programa finalizado
+2025-08-15 11:08:49 | INFO | ============================================================
+2025-08-15 11:08:49 | INFO | 📊 RESUMEN DE LA SESIÓN
+2025-08-15 11:08:49 | INFO | ============================================================
+2025-08-15 11:08:49 | INFO | 📍 SESIONES DE TRADING (Hora Colombia UTC-5):
+2025-08-15 11:08:49 | INFO |   - NY_OPEN: 08:00-09:00 (Apertura Wall Street)
+2025-08-15 11:08:49 | INFO |   - OVERLAP: 10:00-11:00 (Solapamiento EU-NY) ⭐
+2025-08-15 11:08:49 | INFO |   - POWER: 14:00-15:00 (Power Hour NY)
+2025-08-15 11:08:49 | INFO |   - POST: 17:00-18:00 (Post-mercado OTC)
+2025-08-15 11:08:49 | INFO | 
+💰 Capital inicial: $1,018,197.39
+2025-08-15 11:08:49 | INFO | 💰 Balance final: $975,140.55
+2025-08-15 11:08:49 | INFO | 📈 Rendimiento: -4.23%
+2025-08-15 11:08:49 | INFO | 📊 Trades realizados: 3/16 posibles
+2025-08-15 11:08:49 | INFO | ✅ Victorias: 1
+2025-08-15 11:08:49 | INFO | ❌ Derrotas: 3
+2025-08-15 11:08:49 | INFO | 🎯 Win Rate: 25.0%
+2025-08-15 11:08:49 | INFO | 
+🛡️ Coberturas colocadas: 1
+2025-08-15 11:08:49 | INFO | ⏭️ Coberturas evitadas: 2
+2025-08-15 11:08:49 | INFO | 📊 Tasa de cobertura: 33.3%
+2025-08-15 11:08:49 | INFO | ============================================================
+2025-08-15 11:13:23 | INFO | 🚀 Inicializando estrategia...
+2025-08-15 11:13:23 | INFO | ============================================================
+2025-08-15 11:13:23 | INFO | 📈 INICIANDO ESTRATEGIA DE TENDENCIA CON PROTECCIÓN
+2025-08-15 11:13:23 | INFO | ============================================================
+2025-08-15 11:13:23 | INFO | 🎯 Operando en TODAS las sesiones disponibles
+2025-08-15 11:13:23 | INFO | 🔥 PERÍODO DE ANÁLISIS: COMPLETO (2 horas)
+2025-08-15 11:13:23 | INFO | ⏱️ Duración: 120 minutos
+2025-08-15 11:13:23 | INFO | 📊 Objetivo: Identificar activos con tendencias claras
+2025-08-15 11:13:23 | INFO | ✅ Análisis terminará a las: 13:13
+2025-08-15 11:13:23 | INFO | ============================================================
+2025-08-15 11:13:23 | INFO | 🔗 Conectando a IQ Option...
+2025-08-15 11:13:25 | INFO | ✅ Conexión exitosa
+2025-08-15 11:13:25 | INFO | 💰 Capital inicial: $975,140.55
+2025-08-15 11:13:25 | INFO | 🔍 Verificando activos disponibles...
+2025-08-15 11:13:31 | INFO | ✅ EURUSD: Disponible como EURUSD-OTC
+2025-08-15 11:13:31 | INFO | ✅ USDJPY: Disponible como USDJPY-OTC
+2025-08-15 11:13:31 | INFO | ✅ GBPUSD: Disponible como GBPUSD-OTC
+2025-08-15 11:13:31 | INFO | ✅ USDCHF: Disponible como USDCHF-OTC
+2025-08-15 11:13:31 | INFO | ✅ USDCAD: Disponible como USDCAD-OTC
+2025-08-15 11:13:31 | INFO | ✅ AUDUSD: Disponible como AUDUSD-OTC
+2025-08-15 11:13:31 | INFO | ✅ NZDUSD: Disponible como NZDUSD-OTC
+2025-08-15 11:13:31 | INFO | ✅ USNDAQ100: Disponible como USNDAQ100-OTC
+2025-08-15 11:13:31 | INFO | ✅ US2000: Disponible como US2000-OTC
+2025-08-15 11:13:31 | INFO | ✅ SNAP: Disponible como SNAP-OTC
+2025-08-15 11:13:31 | INFO | ✅ ALIBABA: Disponible como ALIBABA-OTC
+2025-08-15 11:13:31 | INFO | ✅ MSFT: Disponible como MSFT-OTC
+2025-08-15 11:13:31 | INFO | ✅ ETHUSD: Disponible como ETHUSD-OTC
+2025-08-15 11:13:31 | INFO | ✅ MATICUSD: Disponible como MATICUSD-OTC
+2025-08-15 11:13:31 | INFO | ✅ NEARUSD: Disponible como NEARUSD-OTC
+2025-08-15 11:13:31 | INFO | ✅ ATOMUSD: Disponible como ATOMUSD-OTC
+2025-08-15 11:13:31 | INFO | ✅ DOTUSD: Disponible como DOTUSD-OTC
+2025-08-15 11:13:31 | INFO | ✅ ARBUSD: Disponible como ARBUSD-OTC
+2025-08-15 11:13:31 | INFO | ✅ LINKUSD: Disponible como LINKUSD-OTC
+2025-08-15 11:13:31 | INFO | ✅ NVDA/AMD: Disponible como NVDA/AMD-OTC
+2025-08-15 11:13:31 | INFO | ✅ TESLA/FORD: Disponible como TESLA/FORD-OTC
+2025-08-15 11:13:31 | INFO | ✅ META/GOOGLE: Disponible como META/GOOGLE-OTC
+2025-08-15 11:13:31 | INFO | ✅ AMZN/ALIBABA: Disponible como AMZN/ALIBABA-OTC
+2025-08-15 11:13:31 | INFO | ✅ MSFT/AAPL: Disponible como MSFT/AAPL-OTC
+2025-08-15 11:13:31 | INFO | ✅ AMZN/EBAY: Disponible como AMZN/EBAY-OTC
+2025-08-15 11:13:31 | INFO | ✅ NFLX/AMZN: Disponible como NFLX/AMZN-OTC
+2025-08-15 11:13:31 | INFO | ✅ GOOGLE/MSFT: Disponible como GOOGLE/MSFT-OTC
+2025-08-15 11:13:31 | INFO | ✅ INTEL/IBM: Disponible como INTEL/IBM-OTC
+2025-08-15 11:13:31 | INFO | 📊 Total activos disponibles: 28
+2025-08-15 11:13:31 | INFO | ⏰ Próxima sesión: POWER (14:00)
+2025-08-15 11:13:31 | INFO |    Power Hour NY 🚀
+2025-08-15 11:13:31 | INFO | ✅ Estado cargado del 2025-08-15
+2025-08-15 11:13:31 | INFO | ✅ Sistema inicializado correctamente
+2025-08-15 11:13:31 | INFO | 📊 ML Advisor no disponible - Operando normal
+2025-08-15 11:13:31 | INFO | 🧪 MODO PRUEBA - Verificando configuración...
+2025-08-15 11:13:31 | INFO | ✅ Conexión exitosa
+2025-08-15 11:13:31 | INFO | 💰 Balance: $975,140.55
+2025-08-15 11:13:31 | INFO | 📊 Activos disponibles: 28
+2025-08-15 11:13:31 | INFO | 📋 Primeros 10 activos:
+2025-08-15 11:13:31 | INFO |    - EURUSD
+2025-08-15 11:13:31 | INFO |    - USDJPY
+2025-08-15 11:13:31 | INFO |    - GBPUSD
+2025-08-15 11:13:31 | INFO |    - USDCHF
+2025-08-15 11:13:31 | INFO |    - USDCAD
+2025-08-15 11:13:31 | INFO |    - AUDUSD
+2025-08-15 11:13:31 | INFO |    - NZDUSD
+2025-08-15 11:13:31 | INFO |    - USNDAQ100
+2025-08-15 11:13:31 | INFO |    - US2000
+2025-08-15 11:13:31 | INFO |    - SNAP
+2025-08-15 11:13:31 | INFO | 
+🔍 Analizando tendencias actuales...
+2025-08-15 11:13:37 | INFO | ⚠️ No se encontraron tendencias válidas
+2025-08-15 11:13:37 | INFO | 
+⏰ PRÓXIMAS VENTANAS DE TRADING:
+2025-08-15 11:13:37 | INFO |   - 14:00 [POWER]
+2025-08-15 11:13:37 | INFO |   - 14:15 [POWER]
+2025-08-15 11:13:37 | INFO |   - 14:30 [POWER]
+2025-08-15 11:13:37 | INFO | 
+✅ Prueba completada exitosamente
+2025-08-15 11:13:37 | INFO | 👋 Programa finalizado
+2025-08-15 11:13:37 | INFO | ============================================================
+2025-08-15 11:13:37 | INFO | 📊 RESUMEN DE LA SESIÓN
+2025-08-15 11:13:37 | INFO | ============================================================
+2025-08-15 11:13:37 | INFO | 📍 SESIONES DE TRADING (Hora Colombia UTC-5):
+2025-08-15 11:13:37 | INFO |   - NY_OPEN: 08:00-09:00 (Apertura Wall Street)
+2025-08-15 11:13:37 | INFO |   - OVERLAP: 10:00-11:00 (Solapamiento EU-NY) ⭐
+2025-08-15 11:13:37 | INFO |   - POWER: 14:00-15:00 (Power Hour NY)
+2025-08-15 11:13:37 | INFO |   - POST: 17:00-18:00 (Post-mercado OTC)
+2025-08-15 11:13:37 | INFO | 
+💰 Capital inicial: $975,140.55
+2025-08-15 11:13:37 | INFO | 💰 Balance final: $975,140.55
+2025-08-15 11:13:37 | INFO | 📈 Rendimiento: 0.00%
+2025-08-15 11:13:37 | INFO | 📊 Trades realizados: 3/16 posibles
+2025-08-15 11:13:37 | INFO | ✅ Victorias: 1
+2025-08-15 11:13:37 | INFO | ❌ Derrotas: 3
+2025-08-15 11:13:37 | INFO | 🎯 Win Rate: 25.0%
+2025-08-15 11:13:37 | INFO | 
+🛡️ Coberturas colocadas: 1
+2025-08-15 11:13:37 | INFO | ⏭️ Coberturas evitadas: 2
+2025-08-15 11:13:37 | INFO | 📊 Tasa de cobertura: 33.3%
+2025-08-15 11:13:37 | INFO | ============================================================
+2025-08-15 11:15:29 | INFO | 🚀 Inicializando estrategia...
+2025-08-15 11:15:29 | INFO | ============================================================
+2025-08-15 11:15:29 | INFO | 📈 INICIANDO ESTRATEGIA DE TENDENCIA CON PROTECCIÓN
+2025-08-15 11:15:29 | INFO | ============================================================
+2025-08-15 11:15:29 | INFO | 🎯 Operando en TODAS las sesiones disponibles
+2025-08-15 11:15:29 | INFO | 🔥 PERÍODO DE ANÁLISIS: COMPLETO (2 horas)
+2025-08-15 11:15:29 | INFO | ⏱️ Duración: 120 minutos
+2025-08-15 11:15:29 | INFO | 📊 Objetivo: Identificar activos con tendencias claras
+2025-08-15 11:15:29 | INFO | ✅ Análisis terminará a las: 13:15
+2025-08-15 11:15:29 | INFO | ============================================================
+2025-08-15 11:15:29 | INFO | 🔗 Conectando a IQ Option...
+2025-08-15 11:15:31 | INFO | ✅ Conexión exitosa
+2025-08-15 11:15:31 | INFO | 💰 Capital inicial: $975,140.55
+2025-08-15 11:15:31 | INFO | 🔍 Verificando activos disponibles...
+2025-08-15 11:15:37 | INFO | ✅ EURUSD: Disponible como EURUSD-OTC
+2025-08-15 11:15:37 | INFO | ✅ USDJPY: Disponible como USDJPY-OTC
+2025-08-15 11:15:37 | INFO | ✅ GBPUSD: Disponible como GBPUSD-OTC
+2025-08-15 11:15:37 | INFO | ✅ USDCHF: Disponible como USDCHF-OTC
+2025-08-15 11:15:37 | INFO | ✅ USDCAD: Disponible como USDCAD-OTC
+2025-08-15 11:15:37 | INFO | ✅ AUDUSD: Disponible como AUDUSD-OTC
+2025-08-15 11:15:37 | INFO | ✅ NZDUSD: Disponible como NZDUSD-OTC
+2025-08-15 11:15:37 | INFO | ✅ USNDAQ100: Disponible como USNDAQ100-OTC
+2025-08-15 11:15:37 | INFO | ✅ US2000: Disponible como US2000-OTC
+2025-08-15 11:15:37 | INFO | ✅ SNAP: Disponible como SNAP-OTC
+2025-08-15 11:15:37 | INFO | ✅ ALIBABA: Disponible como ALIBABA-OTC
+2025-08-15 11:15:37 | INFO | ✅ MSFT: Disponible como MSFT-OTC
+2025-08-15 11:15:37 | INFO | ✅ ETHUSD: Disponible como ETHUSD-OTC
+2025-08-15 11:15:37 | INFO | ✅ MATICUSD: Disponible como MATICUSD-OTC
+2025-08-15 11:15:37 | INFO | ✅ NEARUSD: Disponible como NEARUSD-OTC
+2025-08-15 11:15:37 | INFO | ✅ ATOMUSD: Disponible como ATOMUSD-OTC
+2025-08-15 11:15:37 | INFO | ✅ DOTUSD: Disponible como DOTUSD-OTC
+2025-08-15 11:15:37 | INFO | ✅ ARBUSD: Disponible como ARBUSD-OTC
+2025-08-15 11:15:37 | INFO | ✅ LINKUSD: Disponible como LINKUSD-OTC
+2025-08-15 11:15:37 | INFO | ✅ NVDA/AMD: Disponible como NVDA/AMD-OTC
+2025-08-15 11:15:37 | INFO | ✅ TESLA/FORD: Disponible como TESLA/FORD-OTC
+2025-08-15 11:15:37 | INFO | ✅ META/GOOGLE: Disponible como META/GOOGLE-OTC
+2025-08-15 11:15:37 | INFO | ✅ AMZN/ALIBABA: Disponible como AMZN/ALIBABA-OTC
+2025-08-15 11:15:37 | INFO | ✅ MSFT/AAPL: Disponible como MSFT/AAPL-OTC
+2025-08-15 11:15:37 | INFO | ✅ AMZN/EBAY: Disponible como AMZN/EBAY-OTC
+2025-08-15 11:15:37 | INFO | ✅ NFLX/AMZN: Disponible como NFLX/AMZN-OTC
+2025-08-15 11:15:37 | INFO | ✅ GOOGLE/MSFT: Disponible como GOOGLE/MSFT-OTC
+2025-08-15 11:15:37 | INFO | ✅ INTEL/IBM: Disponible como INTEL/IBM-OTC
+2025-08-15 11:15:37 | INFO | 📊 Total activos disponibles: 28
+2025-08-15 11:15:37 | INFO | ⏰ Próxima sesión: POWER (14:00)
+2025-08-15 11:15:37 | INFO |    Power Hour NY 🚀
+2025-08-15 11:15:37 | INFO | ✅ Estado cargado del 2025-08-15
+2025-08-15 11:15:37 | INFO | ✅ Sistema inicializado correctamente
+2025-08-15 11:15:37 | INFO | 📊 ML Advisor no disponible - Operando normal
+2025-08-15 11:15:37 | INFO | 🧪 MODO PRUEBA - Verificando configuración...
+2025-08-15 11:15:37 | INFO | ✅ Conexión exitosa
+2025-08-15 11:15:37 | INFO | 💰 Balance: $975,140.55
+2025-08-15 11:15:37 | INFO | 📊 Activos disponibles: 28
+2025-08-15 11:15:37 | INFO | 📋 Primeros 10 activos:
+2025-08-15 11:15:37 | INFO |    - EURUSD
+2025-08-15 11:15:37 | INFO |    - USDJPY
+2025-08-15 11:15:37 | INFO |    - GBPUSD
+2025-08-15 11:15:37 | INFO |    - USDCHF
+2025-08-15 11:15:37 | INFO |    - USDCAD
+2025-08-15 11:15:37 | INFO |    - AUDUSD
+2025-08-15 11:15:37 | INFO |    - NZDUSD
+2025-08-15 11:15:37 | INFO |    - USNDAQ100
+2025-08-15 11:15:37 | INFO |    - US2000
+2025-08-15 11:15:37 | INFO |    - SNAP
+2025-08-15 11:15:37 | INFO | 
+🔍 Analizando tendencias actuales...
+2025-08-15 11:15:42 | INFO | ⚠️ No se encontraron tendencias válidas
+2025-08-15 11:15:42 | INFO | 
+⏰ PRÓXIMAS VENTANAS DE TRADING:
+2025-08-15 11:15:42 | INFO |   - 14:00 [POWER]
+2025-08-15 11:15:42 | INFO |   - 14:15 [POWER]
+2025-08-15 11:15:42 | INFO |   - 14:30 [POWER]
+2025-08-15 11:15:42 | INFO | 
+✅ Prueba completada exitosamente
+2025-08-15 11:15:42 | INFO | 👋 Programa finalizado
+2025-08-15 11:15:42 | INFO | ============================================================
+2025-08-15 11:15:42 | INFO | 📊 RESUMEN DE LA SESIÓN
+2025-08-15 11:15:42 | INFO | ============================================================
+2025-08-15 11:15:42 | INFO | 📍 SESIONES DE TRADING (Hora Colombia UTC-5):
+2025-08-15 11:15:42 | INFO |   - NY_OPEN: 08:00-09:00 (Apertura Wall Street)
+2025-08-15 11:15:42 | INFO |   - OVERLAP: 10:00-11:00 (Solapamiento EU-NY) ⭐
+2025-08-15 11:15:42 | INFO |   - POWER: 14:00-15:00 (Power Hour NY)
+2025-08-15 11:15:42 | INFO |   - POST: 17:00-18:00 (Post-mercado OTC)
+2025-08-15 11:15:42 | INFO | 
+💰 Capital inicial: $975,140.55
+2025-08-15 11:15:42 | INFO | 💰 Balance final: $975,140.55
+2025-08-15 11:15:42 | INFO | 📈 Rendimiento: 0.00%
+2025-08-15 11:15:42 | INFO | 📊 Trades realizados: 3/16 posibles
+2025-08-15 11:15:42 | INFO | ✅ Victorias: 1
+2025-08-15 11:15:42 | INFO | ❌ Derrotas: 3
+2025-08-15 11:15:42 | INFO | 🎯 Win Rate: 25.0%
+2025-08-15 11:15:42 | INFO | 
+🛡️ Coberturas colocadas: 1
+2025-08-15 11:15:42 | INFO | ⏭️ Coberturas evitadas: 2
+2025-08-15 11:15:42 | INFO | 📊 Tasa de cobertura: 33.3%
+2025-08-15 11:15:42 | INFO | ============================================================
+2025-08-15 11:19:23 | INFO | 🚀 Inicializando estrategia...
+2025-08-15 11:19:23 | INFO | ============================================================
+2025-08-15 11:19:23 | INFO | 📈 INICIANDO ESTRATEGIA DE TENDENCIA CON PROTECCIÓN
+2025-08-15 11:19:23 | INFO | ============================================================
+2025-08-15 11:19:23 | INFO | 🎯 Operando en TODAS las sesiones disponibles
+2025-08-15 11:19:23 | INFO | 🔥 PERÍODO DE ANÁLISIS: COMPLETO (2 horas)
+2025-08-15 11:19:23 | INFO | ⏱️ Duración: 120 minutos
+2025-08-15 11:19:23 | INFO | 📊 Objetivo: Identificar activos con tendencias claras
+2025-08-15 11:19:23 | INFO | ✅ Análisis terminará a las: 13:19
+2025-08-15 11:19:23 | INFO | ============================================================
+2025-08-15 11:19:23 | INFO | 🔗 Conectando a IQ Option...
+2025-08-15 11:19:24 | INFO | ✅ Conexión exitosa
+2025-08-15 11:19:24 | INFO | 💰 Capital inicial: $975,140.55
+2025-08-15 11:19:24 | INFO | 🔍 Verificando activos disponibles...
+2025-08-15 11:19:31 | INFO | ✅ EURUSD: Disponible como EURUSD-OTC
+2025-08-15 11:19:31 | INFO | ✅ USDJPY: Disponible como USDJPY-OTC
+2025-08-15 11:19:31 | INFO | ✅ GBPUSD: Disponible como GBPUSD-OTC
+2025-08-15 11:19:31 | INFO | ✅ USDCHF: Disponible como USDCHF-OTC
+2025-08-15 11:19:31 | INFO | ✅ USDCAD: Disponible como USDCAD-OTC
+2025-08-15 11:19:31 | INFO | ✅ AUDUSD: Disponible como AUDUSD-OTC
+2025-08-15 11:19:31 | INFO | ✅ NZDUSD: Disponible como NZDUSD-OTC
+2025-08-15 11:19:31 | INFO | ✅ USNDAQ100: Disponible como USNDAQ100-OTC
+2025-08-15 11:19:31 | INFO | ✅ US2000: Disponible como US2000-OTC
+2025-08-15 11:19:31 | INFO | ✅ SNAP: Disponible como SNAP-OTC
+2025-08-15 11:19:31 | INFO | ✅ ALIBABA: Disponible como ALIBABA-OTC
+2025-08-15 11:19:31 | INFO | ✅ MSFT: Disponible como MSFT-OTC
+2025-08-15 11:19:31 | INFO | ✅ ETHUSD: Disponible como ETHUSD-OTC
+2025-08-15 11:19:31 | INFO | ✅ MATICUSD: Disponible como MATICUSD-OTC
+2025-08-15 11:19:31 | INFO | ✅ NEARUSD: Disponible como NEARUSD-OTC
+2025-08-15 11:19:31 | INFO | ✅ ATOMUSD: Disponible como ATOMUSD-OTC
+2025-08-15 11:19:31 | INFO | ✅ DOTUSD: Disponible como DOTUSD-OTC
+2025-08-15 11:19:31 | INFO | ✅ ARBUSD: Disponible como ARBUSD-OTC
+2025-08-15 11:19:31 | INFO | ✅ LINKUSD: Disponible como LINKUSD-OTC
+2025-08-15 11:19:31 | INFO | ✅ NVDA/AMD: Disponible como NVDA/AMD-OTC
+2025-08-15 11:19:31 | INFO | ✅ TESLA/FORD: Disponible como TESLA/FORD-OTC
+2025-08-15 11:19:31 | INFO | ✅ META/GOOGLE: Disponible como META/GOOGLE-OTC
+2025-08-15 11:19:31 | INFO | ✅ AMZN/ALIBABA: Disponible como AMZN/ALIBABA-OTC
+2025-08-15 11:19:31 | INFO | ✅ MSFT/AAPL: Disponible como MSFT/AAPL-OTC
+2025-08-15 11:19:31 | INFO | ✅ AMZN/EBAY: Disponible como AMZN/EBAY-OTC
+2025-08-15 11:19:31 | INFO | ✅ NFLX/AMZN: Disponible como NFLX/AMZN-OTC
+2025-08-15 11:19:31 | INFO | ✅ GOOGLE/MSFT: Disponible como GOOGLE/MSFT-OTC
+2025-08-15 11:19:31 | INFO | ✅ INTEL/IBM: Disponible como INTEL/IBM-OTC
+2025-08-15 11:19:31 | INFO | 📊 Total activos disponibles: 28
+2025-08-15 11:19:31 | INFO | ⏰ Próxima sesión: POWER (14:00)
+2025-08-15 11:19:31 | INFO |    Power Hour NY 🚀
+2025-08-15 11:19:31 | INFO | ✅ Estado cargado del 2025-08-15
+2025-08-15 11:19:31 | INFO | ✅ Sistema inicializado correctamente
+2025-08-15 11:19:31 | INFO | 🤖 ML Advisor activo - Modo: ADVISORY (solo observa)
+2025-08-15 11:19:31 | INFO | 🧪 MODO PRUEBA - Verificando configuración...
+2025-08-15 11:19:31 | INFO | ✅ Conexión exitosa
+2025-08-15 11:19:31 | INFO | 💰 Balance: $975,140.55
+2025-08-15 11:19:31 | INFO | 📊 Activos disponibles: 28
+2025-08-15 11:19:31 | INFO | 📋 Primeros 10 activos:
+2025-08-15 11:19:31 | INFO |    - EURUSD
+2025-08-15 11:19:31 | INFO |    - USDJPY
+2025-08-15 11:19:31 | INFO |    - GBPUSD
+2025-08-15 11:19:31 | INFO |    - USDCHF
+2025-08-15 11:19:31 | INFO |    - USDCAD
+2025-08-15 11:19:31 | INFO |    - AUDUSD
+2025-08-15 11:19:31 | INFO |    - NZDUSD
+2025-08-15 11:19:31 | INFO |    - USNDAQ100
+2025-08-15 11:19:31 | INFO |    - US2000
+2025-08-15 11:19:31 | INFO |    - SNAP
+2025-08-15 11:19:31 | INFO | 
+🔍 Analizando tendencias actuales...
+2025-08-15 11:19:37 | INFO | ⚠️ No se encontraron tendencias válidas
+2025-08-15 11:19:37 | INFO | 
+⏰ PRÓXIMAS VENTANAS DE TRADING:
+2025-08-15 11:19:37 | INFO |   - 14:00 [POWER]
+2025-08-15 11:19:37 | INFO |   - 14:15 [POWER]
+2025-08-15 11:19:37 | INFO |   - 14:30 [POWER]
+2025-08-15 11:19:37 | INFO | 
+✅ Prueba completada exitosamente
+2025-08-15 11:19:37 | INFO | 👋 Programa finalizado
+2025-08-15 11:19:37 | INFO | ============================================================
+2025-08-15 11:19:37 | INFO | 📊 RESUMEN DE LA SESIÓN
+2025-08-15 11:19:37 | INFO | ============================================================
+2025-08-15 11:19:37 | INFO | 📍 SESIONES DE TRADING (Hora Colombia UTC-5):
+2025-08-15 11:19:37 | INFO |   - NY_OPEN: 08:00-09:00 (Apertura Wall Street)
+2025-08-15 11:19:37 | INFO |   - OVERLAP: 10:00-11:00 (Solapamiento EU-NY) ⭐
+2025-08-15 11:19:37 | INFO |   - POWER: 14:00-15:00 (Power Hour NY)
+2025-08-15 11:19:37 | INFO |   - POST: 17:00-18:00 (Post-mercado OTC)
+2025-08-15 11:19:37 | INFO | 
+💰 Capital inicial: $975,140.55
+2025-08-15 11:19:37 | INFO | 💰 Balance final: $975,140.55
+2025-08-15 11:19:37 | INFO | 📈 Rendimiento: 0.00%
+2025-08-15 11:19:37 | INFO | 📊 Trades realizados: 3/16 posibles
+2025-08-15 11:19:37 | INFO | ✅ Victorias: 1
+2025-08-15 11:19:37 | INFO | ❌ Derrotas: 3
+2025-08-15 11:19:37 | INFO | 🎯 Win Rate: 25.0%
+2025-08-15 11:19:37 | INFO | 
+🛡️ Coberturas colocadas: 1
+2025-08-15 11:19:37 | INFO | ⏭️ Coberturas evitadas: 2
+2025-08-15 11:19:37 | INFO | 📊 Tasa de cobertura: 33.3%
+2025-08-15 11:19:37 | INFO | 
+🤖 ML ADVISOR (Modo Advisory):
+2025-08-15 11:19:37 | INFO |   Consultas: 0
+2025-08-15 11:19:37 | INFO |   ML aprobaría: 0
+2025-08-15 11:19:37 | INFO |   ML rechazaría: 0
+2025-08-15 11:19:37 | INFO | ============================================================
+2025-08-15 11:26:18 | INFO | 🚀 Inicializando estrategia...
+2025-08-15 11:26:18 | INFO | ============================================================
+2025-08-15 11:26:18 | INFO | 📈 INICIANDO ESTRATEGIA DE TENDENCIA CON PROTECCIÓN
+2025-08-15 11:26:18 | INFO | ============================================================
+2025-08-15 11:26:18 | INFO | 🎯 Operando en TODAS las sesiones disponibles
+2025-08-15 11:26:18 | INFO | 🔥 PERÍODO DE ANÁLISIS: COMPLETO (2 horas)
+2025-08-15 11:26:18 | INFO | ⏱️ Duración: 120 minutos
+2025-08-15 11:26:18 | INFO | 📊 Objetivo: Identificar activos con tendencias claras
+2025-08-15 11:26:18 | INFO | ✅ Análisis terminará a las: 13:26
+2025-08-15 11:26:18 | INFO | ============================================================
+2025-08-15 11:26:18 | INFO | 🔗 Conectando a IQ Option...
+2025-08-15 11:26:20 | INFO | ✅ Conexión exitosa
+2025-08-15 11:26:20 | INFO | 💰 Capital inicial: $975,140.55
+2025-08-15 11:26:20 | INFO | 🔍 Verificando activos disponibles...
+2025-08-15 11:26:27 | INFO | ✅ EURUSD: Disponible como EURUSD-OTC
+2025-08-15 11:26:27 | INFO | ✅ USDJPY: Disponible como USDJPY-OTC
+2025-08-15 11:26:27 | INFO | ✅ GBPUSD: Disponible como GBPUSD-OTC
+2025-08-15 11:26:27 | INFO | ✅ USDCHF: Disponible como USDCHF-OTC
+2025-08-15 11:26:27 | INFO | ✅ USDCAD: Disponible como USDCAD-OTC
+2025-08-15 11:26:27 | INFO | ✅ AUDUSD: Disponible como AUDUSD-OTC
+2025-08-15 11:26:27 | INFO | ✅ NZDUSD: Disponible como NZDUSD-OTC
+2025-08-15 11:26:27 | INFO | ✅ USNDAQ100: Disponible como USNDAQ100-OTC
+2025-08-15 11:26:27 | INFO | ✅ US2000: Disponible como US2000-OTC
+2025-08-15 11:26:27 | INFO | ✅ SNAP: Disponible como SNAP-OTC
+2025-08-15 11:26:27 | INFO | ✅ ALIBABA: Disponible como ALIBABA-OTC
+2025-08-15 11:26:27 | INFO | ✅ MSFT: Disponible como MSFT-OTC
+2025-08-15 11:26:27 | INFO | ✅ ETHUSD: Disponible como ETHUSD-OTC
+2025-08-15 11:26:27 | INFO | ✅ MATICUSD: Disponible como MATICUSD-OTC
+2025-08-15 11:26:27 | INFO | ✅ NEARUSD: Disponible como NEARUSD-OTC
+2025-08-15 11:26:27 | INFO | ✅ ATOMUSD: Disponible como ATOMUSD-OTC
+2025-08-15 11:26:27 | INFO | ✅ DOTUSD: Disponible como DOTUSD-OTC
+2025-08-15 11:26:27 | INFO | ✅ ARBUSD: Disponible como ARBUSD-OTC
+2025-08-15 11:26:27 | INFO | ✅ LINKUSD: Disponible como LINKUSD-OTC
+2025-08-15 11:26:27 | INFO | ✅ NVDA/AMD: Disponible como NVDA/AMD-OTC
+2025-08-15 11:26:27 | INFO | ✅ TESLA/FORD: Disponible como TESLA/FORD-OTC
+2025-08-15 11:26:27 | INFO | ✅ META/GOOGLE: Disponible como META/GOOGLE-OTC
+2025-08-15 11:26:27 | INFO | ✅ AMZN/ALIBABA: Disponible como AMZN/ALIBABA-OTC
+2025-08-15 11:26:27 | INFO | ✅ MSFT/AAPL: Disponible como MSFT/AAPL-OTC
+2025-08-15 11:26:27 | INFO | ✅ AMZN/EBAY: Disponible como AMZN/EBAY-OTC
+2025-08-15 11:26:27 | INFO | ✅ NFLX/AMZN: Disponible como NFLX/AMZN-OTC
+2025-08-15 11:26:27 | INFO | ✅ GOOGLE/MSFT: Disponible como GOOGLE/MSFT-OTC
+2025-08-15 11:26:27 | INFO | ✅ INTEL/IBM: Disponible como INTEL/IBM-OTC
+2025-08-15 11:26:27 | INFO | 📊 Total activos disponibles: 28
+2025-08-15 11:26:27 | INFO | ⏰ Próxima sesión: POWER (14:00)
+2025-08-15 11:26:27 | INFO |    Power Hour NY 🚀
+2025-08-15 11:26:27 | INFO | ✅ Estado cargado del 2025-08-15
+2025-08-15 11:26:27 | INFO | ✅ Sistema inicializado correctamente
+2025-08-15 11:26:27 | INFO | 🤖 ML Advisor activo - Modo: ADVISORY (solo observa)
+2025-08-15 11:26:27 | INFO | 🎯 Iniciando estrategia de tendencia...
+2025-08-15 11:26:27 | INFO | 📍 Operando en sesión(es): TODAS LAS SESIONES
+2025-08-15 11:26:27 | INFO | ℹ️ Presiona Ctrl+C para detener
+2025-08-15 11:26:27 | INFO | 🔥 Iniciando análisis de tendencias...
+2025-08-15 11:26:27 | INFO | ⏱️ Análisis: 120 minutos restantes
+2025-08-15 11:26:32 | INFO | 📊 No hay tendencias válidas en este momento

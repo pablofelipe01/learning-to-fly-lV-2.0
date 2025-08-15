@@ -1,0 +1,3 @@
+2025-08-15 10:13:58 | INFO | {"timestamp": "2025-08-15T10:13:58.720791", "mode": "advisory", "asset": "EURUSD", "score": 0.72, "ml_prediction": "N/A", "win_probability": 0, "recommendation": "NEUTRAL", "decision": "APPROVED", "blocked_by_ml": false}
+2025-08-15 10:13:58 | INFO | {"timestamp": "2025-08-15T10:13:58.720979", "mode": "advisory", "asset": "GBPUSD", "score": 0.58, "ml_prediction": "N/A", "win_probability": 0, "recommendation": "NEUTRAL", "decision": "APPROVED", "blocked_by_ml": false}
+2025-08-15 10:13:58 | INFO | {"timestamp": "2025-08-15T10:13:58.721053", "mode": "advisory", "asset": "BTCUSD", "score": 0.81, "ml_prediction": "N/A", "win_probability": 0, "recommendation": "NEUTRAL", "decision": "APPROVED", "blocked_by_ml": false}

@@ -1,172 +1,172 @@
 {
-    "timestamp": "2025-08-15T09:39:14.636660",
-    "daily_trades": 1,
-    "daily_profit": -20363.95,
-    "wins": 0,
-    "losses": 1,
-    "hedges_placed": 0,
-    "hedges_avoided": 1,
+    "timestamp": "2025-08-15T11:08:49.197117",
+    "daily_trades": 3,
+    "daily_profit": -43258.2635,
+    "wins": 1,
+    "losses": 3,
+    "hedges_placed": 1,
+    "hedges_avoided": 2,
     "trend_scores": {
         "EURUSD": {
             "score": 0,
-            "direction": "UP",
-            "strength": 0.6505969284804274
+            "direction": "DOWN",
+            "strength": 0.59153024689289
         },
         "USDJPY": {
             "score": 0,
-            "direction": "LATERAL",
-            "strength": 0.021561415006643776
+            "direction": "DOWN",
+            "strength": 0.60066269766439
         },
         "GBPUSD": {
             "score": 0,
-            "direction": "UP",
-            "strength": 0.4546693254983365
+            "direction": "DOWN",
+            "strength": 0.6231002627565865
         },
         "USDCHF": {
             "score": 0,
-            "direction": "DOWN",
-            "strength": 0.6170901494455675
+            "direction": "LATERAL",
+            "strength": 0.007177268707746829
         },
         "USDCAD": {
             "score": 0,
-            "direction": "DOWN",
-            "strength": 0.5892400866559123
+            "direction": "UP",
+            "strength": 0.3251922744911209
         },
         "AUDUSD": {
             "score": 0,
             "direction": "DOWN",
-            "strength": 0.5473540136452976
+            "strength": 0.3908738591495632
         },
         "NZDUSD": {
             "score": 0,
             "direction": "DOWN",
-            "strength": 0.11052931276232539
+            "strength": 0.6310467436783436
         },
         "USNDAQ100": {
             "score": 0,
-            "direction": "UP",
-            "strength": 0.16165013593647712
+            "direction": "LATERAL",
+            "strength": 0.12333948547768697
         },
         "US2000": {
             "score": 0,
-            "direction": "LATERAL",
-            "strength": 0.17750702231707136
+            "direction": "UP",
+            "strength": 0.10025514001623298
         },
         "TESLA": {
             "score": 0,
             "direction": "UP",
-            "strength": 0.42487994605324847
+            "strength": 0.0428215010996957
         },
         "SNAP": {
             "score": 0,
-            "direction": "UP",
-            "strength": 0.21620919239319028
+            "direction": "DOWN",
+            "strength": 0.0007117922607059973
         },
         "Amazon": {
             "score": 0,
-            "direction": "DOWN",
-            "strength": 0.5007831186810842
+            "direction": "UP",
+            "strength": 0.4549058901662917
         },
         "GOOGLE": {
             "score": 0,
-            "direction": "DOWN",
-            "strength": 0.02555300951710772
+            "direction": "UP",
+            "strength": 0.19020120399370116
         },
         "ALIBABA": {
             "score": 0,
-            "direction": "UP",
-            "strength": 0.026608664572209388
+            "direction": "DOWN",
+            "strength": 0.47009063745443075
         },
         "Apple": {
             "score": 0,
             "direction": "UP",
-            "strength": 0.654779593804804
+            "strength": 0.43050334315090505
         },
         "MSFT": {
             "score": 0,
-            "direction": "UP",
-            "strength": 0.26025977576479215
+            "direction": "LATERAL",
+            "strength": 0.04370602920595013
         },
         "ETHUSD": {
             "score": 0,
             "direction": "DOWN",
-            "strength": 0.0030716571667752327
+            "strength": 0.41153480483172467
         },
         "MATICUSD": {
             "score": 0,
-            "direction": "DOWN",
-            "strength": 0.2575938602986607
+            "direction": "UP",
+            "strength": 0.3590064962104868
         },
         "NEARUSD": {
             "score": 0,
             "direction": "DOWN",
-            "strength": 0.621049636047878
+            "strength": 0.5758905680215417
         },
         "ATOMUSD": {
             "score": 0,
-            "direction": "UP",
-            "strength": 0.12972916894276326
+            "direction": "DOWN",
+            "strength": 0.49823774159351286
         },
         "DOTUSD": {
             "score": 0,
-            "direction": "UP",
-            "strength": 0.2729786820790194
+            "direction": "DOWN",
+            "strength": 0.3899989591038412
         },
         "ARBUSD": {
             "score": 0,
             "direction": "DOWN",
-            "strength": 0.5391333595641066
+            "strength": 0.5564890843029893
         },
         "LINKUSD": {
             "score": 0,
             "direction": "DOWN",
-            "strength": 0.4669904520125755
+            "strength": 0.6425846562126103
         },
         "NVDA/AMD": {
             "score": 0,
-            "direction": "LATERAL",
-            "strength": 0.10535230096238875
+            "direction": "UP",
+            "strength": 0.24550474561781396
         },
         "TESLA/FORD": {
             "score": 0,
-            "direction": "UP",
-            "strength": 0.5715809136411935
+            "direction": "LATERAL",
+            "strength": 0.0007525099207340784
         },
         "META/GOOGLE": {
             "score": 0,
             "direction": "DOWN",
-            "strength": 0.13717561137309206
+            "strength": 0.005954700063547889
         },
         "AMZN/ALIBABA": {
             "score": 0,
-            "direction": "UP",
-            "strength": 0.653595198131218
+            "direction": "DOWN",
+            "strength": 0.2227417476239908
         },
         "MSFT/AAPL": {
             "score": 0,
-            "direction": "UP",
-            "strength": 0.612803293578127
+            "direction": "LATERAL",
+            "strength": 0.259035722377048
         },
         "AMZN/EBAY": {
             "score": 0,
-            "direction": "DOWN",
-            "strength": 0.44098250942474454
+            "direction": "UP",
+            "strength": 0.04352684474237652
         },
         "NFLX/AMZN": {
             "score": 0,
-            "direction": "DOWN",
-            "strength": 0.1946018766410889
+            "direction": "UP",
+            "strength": 0.3687453351526025
         },
         "GOOGLE/MSFT": {
             "score": 0,
-            "direction": "UP",
-            "strength": 0.3754619861026543
+            "direction": "LATERAL",
+            "strength": 0.04533759124999171
         },
         "INTEL/IBM": {
             "score": 0,
             "direction": "DOWN",
-            "strength": 0.16701545372647228
+            "strength": 0.2472861298785015
         }
     },
-    "last_window_traded": "08:30"
+    "last_window_traded": "10:30"
 }
